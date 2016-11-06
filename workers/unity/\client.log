@@ -1,0 +1,12 @@
+[ INFO] 12:19:58 - Setting the initial origin to Vector3(0, 0, 0).
+ Improbable.CoreLibrary.CoordinateRemapping.DetermineOrigin.AbstractReactiveDetermineOriginStrategy.InitializeOriginIfNecessary()
+(/Users/ernest/dev/PiratesTutorial-master/workers/unity/Assets/Improbable/Dependencies/Improbable/CoreLibrary/CoordinateRemapping/DetermineOrigin/AbstractReactiveDetermineOriginStrategy.cs:55)
+[ INFO] 12:22:53 - Setting the initial origin to Vector3(0, 0, 0).
+ Improbable.CoreLibrary.CoordinateRemapping.DetermineOrigin.AbstractReactiveDetermineOriginStrategy.InitializeOriginIfNecessary()
+(/Users/ernest/dev/PiratesTutorial-master/workers/unity/Assets/Improbable/Dependencies/Improbable/CoreLibrary/CoordinateRemapping/DetermineOrigin/AbstractReactiveDetermineOriginStrategy.cs:55)
+[ INFO] 13:24:24 - Setting the initial origin to Vector3(-1.002685546875, 0, -0.0078125).
+ Improbable.CoreLibrary.CoordinateRemapping.DetermineOrigin.AbstractReactiveDetermineOriginStrategy.InitializeOriginIfNecessary()
+(/Users/ernest/dev/PiratesTutorial-master/workers/unity/Assets/Improbable/Dependencies/Improbable/CoreLibrary/CoordinateRemapping/DetermineOrigin/AbstractReactiveDetermineOriginStrategy.cs:55)
+[ INFO] 14:21:05 - Setting the initial origin to Vector3(0, 0, 0).
+ Improbable.CoreLibrary.CoordinateRemapping.DetermineOrigin.AbstractReactiveDetermineOriginStrategy.InitializeOriginIfNecessary()
+(/Users/ernest/dev/PiratesTutorial-master/workers/unity/Assets/Improbable/Dependencies/Improbable/CoreLibrary/CoordinateRemapping/DetermineOrigin/AbstractReactiveDetermineOriginStrategy.cs:55)
