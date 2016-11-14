@@ -1,8 +1,8 @@
 {
     "name": "pirates",
     "project_version": "0.0.1",
-    "sdk_version": "8.0.0",
+    "sdk_version": "0.0.1-b306-65e53-SNAPSHOT",
     "dependencies": [
-        {"name": "CoreLibrary", "version": "8.0.0"}
+        {"name": "CoreLibrary", "version": "0.0.1-b306-65e53-SNAPSHOT"}
     ]
 }
