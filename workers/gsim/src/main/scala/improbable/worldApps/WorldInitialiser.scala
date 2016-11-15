@@ -11,9 +11,9 @@ import scala.concurrent.duration._
 
 class WorldInitialiser(val world: AppWorld) extends WorldApp {
 
-  final val MAX_SHIPS = 20  // total number of pirates to spawn
-  final val DISTANCE_BETWEEN_SHIPS = 15 // distance between pirates on spawn, not too close together
-  final val SPAWN_DELAY = 200   // msecs (5 pirates spawned per second)
+  final val MAX_SHIPS = 100  // total number of pirates to spawn
+  final val DISTANCE_BETWEEN_SHIPS = 2 // distance between pirates on spawn, not too close together
+  final val SPAWN_DELAY = 50   // msecs
 
   // Code here will be run when the simulated world starts.
   world.entities.spawnEntity(Terrain(Vector3d.zero))
